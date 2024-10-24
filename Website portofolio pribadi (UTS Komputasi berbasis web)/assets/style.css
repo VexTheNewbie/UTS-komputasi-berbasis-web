@@ -1,0 +1,162 @@
+body {
+    background-image: url(images/Background.png);
+    background-size: cover;
+}
+
+.profile {
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.space_text {
+    margin-right: 80px;
+    margin-left: 80px;
+    font-size: 1.5em;
+    margin-bottom: 100px;
+    
+}
+
+.float_left {
+    float: left;
+}
+
+.break_float {
+    clear: both;
+}
+
+
+p {
+    font-size: 20px;
+}
+
+.nama_nim {
+    position: fixed;
+    width: 1535px;
+    height: auto;
+    top: 620px;
+    left: 0px;
+    right: 0px;
+}
+
+.text {
+    margin-left: 150px;
+}
+
+.bold_text {
+    font-weight: bold;
+}
+
+.jarak_img {
+    margin-left: 80px;
+    margin-right: 50px;
+}
+
+.form_style {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    
+}
+
+label {
+    margin-bottom: 5px;
+    font-weight: bold;
+    margin-left: 120px;
+    font-size: 25px;
+}
+
+input {
+    padding: 10px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 20%;
+}
+
+.form_state {
+    float: left;
+}
+
+.style_group_2 {
+    width: 1000px;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+
+.style_img_1 {
+    border: solid 4px #000000;
+    width: 300px;
+    border-radius: 10%;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.style_font_1 {
+    
+    width: 150px;
+    border-radius: 10%;
+    margin-left: 80px;
+    margin-right: 10px;
+    padding-left: 100px;
+}
+
+
+.style_img_2 {
+    border: solid 4px #000000;
+    width: 270px;
+    border-radius: 10%;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.style_img_3 {
+    border: solid 4px #000000;
+    width: 270px;
+    border-radius: 10%;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 80px;
+}
+
+.style_img_box {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+
+.container {
+    width: 100%;
+    overflow: hidden;
+}
+
+.float_flow1 {
+    float: left;
+    width: 30%;
+    margin: 0 1.5%;
+    text-align: center;
+}
+
+.float_flow1 img {
+    width: 100%;
+    height: auto;
+    border: solid 4px #000000;
+    border-radius: 10%;
+}
+
+.float_flow1 p {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.size_img {
+    width: 400px;
+}
